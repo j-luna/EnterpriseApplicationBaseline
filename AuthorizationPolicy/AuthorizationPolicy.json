@@ -1,0 +1,9 @@
+{ 
+    "defaultUserRolePermissions": {
+        "permissionGrantPoliciesAssigned": [
+            "ManagePermissionGrantsForSelf.microsoft-user-default-low",
+            "ManagePermissionGrantsForOwnedResource.microsoft-dynamically-managed-permissions-for-chat",
+            "ManagePermissionGrantsForOwnedResource.microsoft-dynamically-managed-permissions-for-team"
+        ]
+    }
+}

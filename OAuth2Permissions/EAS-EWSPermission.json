@@ -1,0 +1,6 @@
+{
+    "clientId": "AppleInternetAccounts_Id",
+    "consentType": "AllPrincipals",
+    "resourceId": "d91cad00-073b-4d52-9948-8dd38d08f296",
+    "scope": "EAS.AccessAsUser.All EWS.AccessAsUser.All"
+}

@@ -1,0 +1,6 @@
+{
+    "clientId": "AppleInternetAccounts_Id",
+    "consentType": "AllPrincipals",
+    "resourceId": "be1e7453-9ff8-4cf6-bf5f-a7506a0a7deb",
+    "scope": "User.Read"
+}
